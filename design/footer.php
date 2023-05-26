@@ -31,7 +31,7 @@
 
     </center>
 
-    <div class="credit"> created by <a href="pages/Message/pages/BSIC_2C-G5/Members.html"> BSIT 2C</a> | all rights reserved </div>
+    <div class="credit"> created by <a href="#"> BSIT 2C</a> | all rights reserved </div>
 </section>
 
 

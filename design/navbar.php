@@ -15,7 +15,7 @@
 <body>
 <header class="header">
 
-    <a href="#" class="logo"> <i class="fas fa-tint"></i> M G B </a>
+    <a href="#" class="logo"> <i class="fas fa-tint"></i>Homestead </a>
     <div class="icons">
          <a href="./index.php">
             <div title="Home" class="fas fa-home" id="home-btn"></div>
